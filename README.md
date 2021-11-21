@@ -1,5 +1,5 @@
 # TechX DDoS Atack
-## Instalacion para Linux
+## Instalacion para Linux y Termux
 ### Asegurate de tener git instalado, de lo contrario ejecuta "apt install git" o "pkg install git" segun corresponda para Termux y Linux
 
 - Colna el repositorio
@@ -22,6 +22,10 @@
 
 ┌──(root💀MrTechX)-[TechX_URL]
 └─# pip install colorama
+
+
+┌──(root💀MrTechX)-[TechX_URL]
+└─# pip install tqdm
 ```
 
 * Listo ahora puedes usarlo
