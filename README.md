@@ -16,28 +16,28 @@
 
 * Instalemos lo necesario
 ```console
-┌──(root💀MrTechX)-[TechX_URL]
+┌──(root💀MrTechX)-[TechX_DDoS]
 └─# apt install python3
 
 
-┌──(root💀MrTechX)-[TechX_URL]
+┌──(root💀MrTechX)-[TechX_DDoS]
 └─# pip install colorama
 
 
-┌──(root💀MrTechX)-[TechX_URL]
+┌──(root💀MrTechX)-[TechX_DDoS]
 └─# pip install tqdm
 ```
 
 * Listo ahora puedes usarlo
 ```console
     LINUX
-┌──(root💀MrTechX)-[TechX_URL]
+┌──(root💀MrTechX)-[TechX_DDoS]
 └─# python3 DDoS.py
 
     TERMUX
-┌──(root💀MrTechX)-[TechX_URL]
+┌──(root💀MrTechX)-[TechX_DDoS]
 └─# python3 DDoS_Termux.py
 ```
 <img src="https://raw.githubusercontent.com/Mr-TechX/TechX_DDoS/main/img/linux.jpg">
 <img src="https://raw.githubusercontent.com/Mr-TechX/TechX_DDoS/main/img/termux.jpg">
-<!-- Probado en Kali Linux y Ubuntu -->
+<!-- Probado en Kali Linux, Ubuntu y Debian -->
