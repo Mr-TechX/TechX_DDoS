@@ -38,6 +38,6 @@
 ┌──(root💀MrTechX)-[TechX_URL]
 └─# python3 DDoS_Termux.py
 ```
-<img src="#">
-<img src="#">
+<img src="https://raw.githubusercontent.com/Mr-TechX/TechX_DDoS/main/img/linux.jpg">
+<img src="https://raw.githubusercontent.com/Mr-TechX/TechX_DDoS/main/img/termux.jpg">
 <!-- Probado en Kali Linux y Ubuntu -->
